@@ -80,8 +80,8 @@ hr {
 
 
 .active {
-    box-sizing: border-box;
-    text-decoration: 2px underline var(--secondary-text-color);
+    box-sizing: border-box; 
+    text-decoration: 2px underline var(--secondary-text-color); 
     padding: 7px;
 
 }
